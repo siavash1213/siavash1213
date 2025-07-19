@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sia_vash</h1>
 <h3 align="center">Ai Junior developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siavash1213&label=Profile%20views&color=0e75b6&style=flat" alt="siavash1213" /> </p>
+<p align="left"> <img src=""C:\Users\Siavash\Downloads\Gemini_Generated_Image_6qm9eq6qm9eq6qm9.png"" alt="siavash1213" /> </p>
 
 - 🌱 I’m currently learning **Machine & Deep learning**
 
